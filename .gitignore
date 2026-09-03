@@ -1,0 +1,18 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+# Local configuration and credentials
+lazyvim.json
+lua/config/local.lua
+lua/plugins/local.lua
+.env
+.env.*
+!.env.example
+*.key
+*.pem
